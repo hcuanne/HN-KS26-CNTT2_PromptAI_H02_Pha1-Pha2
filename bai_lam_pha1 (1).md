@@ -8,7 +8,7 @@
 
 -  **Lớp:** CNTT2
 
--  **Link repository Pha1:**
+-  **Link repository Pha1:** https://github.com/hcuanne/HN-KS26-CNTT2_PromptAI_H02_Pha1-Pha2
 
   
 
